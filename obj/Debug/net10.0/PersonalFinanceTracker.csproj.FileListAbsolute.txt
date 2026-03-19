@@ -1,0 +1,15 @@
+C:\Users\user\OneDrive\Documents\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net10.0\PersonalFinanceTracker.exe
+C:\Users\user\OneDrive\Documents\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net10.0\PersonalFinanceTracker.deps.json
+C:\Users\user\OneDrive\Documents\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net10.0\PersonalFinanceTracker.runtimeconfig.json
+C:\Users\user\OneDrive\Documents\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net10.0\PersonalFinanceTracker.dll
+C:\Users\user\OneDrive\Documents\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\net10.0\PersonalFinanceTracker.pdb
+C:\Users\user\OneDrive\Documents\PersonalFinanceTracker\PersonalFinanceTracker\obj\Debug\net10.0\PersonalFinanceTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Documents\PersonalFinanceTracker\PersonalFinanceTracker\obj\Debug\net10.0\PersonalFinanceTracker.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Documents\PersonalFinanceTracker\PersonalFinanceTracker\obj\Debug\net10.0\PersonalFinanceTracker.AssemblyInfo.cs
+C:\Users\user\OneDrive\Documents\PersonalFinanceTracker\PersonalFinanceTracker\obj\Debug\net10.0\PersonalFinanceTracker.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Documents\PersonalFinanceTracker\PersonalFinanceTracker\obj\Debug\net10.0\PersonalFinanceTracker.sourcelink.json
+C:\Users\user\OneDrive\Documents\PersonalFinanceTracker\PersonalFinanceTracker\obj\Debug\net10.0\PersonalFinanceTracker.dll
+C:\Users\user\OneDrive\Documents\PersonalFinanceTracker\PersonalFinanceTracker\obj\Debug\net10.0\refint\PersonalFinanceTracker.dll
+C:\Users\user\OneDrive\Documents\PersonalFinanceTracker\PersonalFinanceTracker\obj\Debug\net10.0\PersonalFinanceTracker.pdb
+C:\Users\user\OneDrive\Documents\PersonalFinanceTracker\PersonalFinanceTracker\obj\Debug\net10.0\PersonalFinanceTracker.genruntimeconfig.cache
+C:\Users\user\OneDrive\Documents\PersonalFinanceTracker\PersonalFinanceTracker\obj\Debug\net10.0\ref\PersonalFinanceTracker.dll
